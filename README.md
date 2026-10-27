@@ -185,13 +185,3 @@ A publicação deste documento no GitHub não concede automaticamente licença p
 **Em:** Outubro de 2026\
 **Direitos Reservados © 2026 — Washington Brito Miguel. Todos os direitos reservados.**
 
-### Como publicar no GitHub
-
-1. Abra o repositório do projeto.
-2. Localize o arquivo `README.md`.
-3. Clique no ícone de edição.
-4. Substitua o conteúdo pelo texto acima.
-5. Confira se o link do site está correto e visualize a prévia.
-6. Registre a alteração com uma mensagem como `docs: atualiza README do WBM Gerador de Currículos ATS`.
-
-Observação: mantive o texto fiel ao estado descrito do projeto, sem afirmar que existem banco de dados externo, autenticação obrigatória ou funcionalidades de histórico persistente que ainda não foram confirmadas.
