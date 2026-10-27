@@ -1,6 +1,3 @@
-Preparei um README completo em Markdown para o repositório do WBM Gerador de Currículos ATS, considerando o funcionamento atual do projeto na SITE123, o acesso público testado e a preservação dos dados por usuário. O documento não afirma que o login obrigatório já está implementado, pois você decidiu não alterar essa configuração neste momento.
-
-Você pode copiar o conteúdo abaixo e colá-lo no arquivo `README.md` do GitHub.
 
 # WBM Gerador de Currículos ATS
 
